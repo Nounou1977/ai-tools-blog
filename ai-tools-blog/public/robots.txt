@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qg8ujhoq49tk.space.minimax.io/sitemap.xml

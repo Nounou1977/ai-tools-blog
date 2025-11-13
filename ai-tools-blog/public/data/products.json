@@ -1,0 +1,125 @@
+{
+  "main_product": {
+    "id": "50-prompts-ia",
+    "name": "50 Prompts IA Professionnels",
+    "subtitle": "Collection complète pour entrepreneurs, marketeurs et créateurs de contenu",
+    "price": 29.0,
+    "currency": "EUR",
+    "original_price": null,
+    "description": "Guide complet de 50 pages avec 50 prompts ChatGPT + 25 prompts Midjourney testés pendant 6 mois",
+    "features": {
+      "pages": 50,
+      "chatgpt_prompts": 50,
+      "midjourney_prompts": 25,
+      "business_prompts": 10,
+      "marketing_prompts": 10,
+      "content_creation_prompts": 10,
+      "seo_prompts": 10,
+      "strategy_prompts": 10,
+      "instant_delivery": true,
+      "bonus_content": "Framework R.O.L.E.S. + Cas d'études concrets"
+    },
+    "cta_text": "Accéder aux Prompts Maintenant",
+    "gumroad_url": "https://aiexperthub.gumroad.com/l/tnpyxi"
+  },
+  "upsell_products": []
+    {
+      "id": "prompts-marketing",
+      "name": "50 Prompts Marketing IA",
+      "subtitle": "Collection spécialisée pour l'automatisation des campagnes",
+      "price": 19.0,
+      "currency": "EUR",
+      "original_price": 39.0,
+      "description": "50 prompts marketing optimisés pour funnels, campagnes et conversion",
+      "features": {
+        "prompts_count": 50,
+        "focus": "Marketing & Vente",
+        "advanced_techniques": true,
+        "automation_ready": true
+      },
+      "cta_text": "Obtenir les Prompts Marketing",
+      "gumroad_url": "https://gumroad.com/l/50-prompts-marketing-automation"
+    },
+    {
+      "id": "bundle-complete",
+      "name": "Pack Complet 100 Prompts",
+      "subtitle": "Bundle ultime pour automatiser votre business",
+      "price": 39.0,
+      "currency": "EUR",
+      "original_price": 48.0,
+      "description": "50 Prompts IA + 50 Prompts Marketing = Solution complète",
+      "features": {
+        "total_prompts": 100,
+        "savings": "19€",
+        "complete_system": true,
+        "exclusive_bonuses": true
+      },
+      "cta_text": "Profiter du Bundle Complet",
+      "gumroad_url": "https://gumroad.com/l/complete-100-prompts-automation-system"
+    },
+    {
+      "id": "formation-mastery",
+      "name": "Formation ChatGPT Mastery",
+      "subtitle": "Formation complète de 4h pour maîtriser ChatGPT",
+      "price": 99.0,
+      "currency": "EUR",
+      "description": "Formation avancée + techniques d'automatisation business",
+      "features": {
+        "duration": "4h",
+        "level": "Expert",
+        "includes": "Advanced techniques, business automation, expert support",
+        "guarantee": "30 jours satisfait ou remboursé"
+      },
+      "cta_text": "Découvrir la Formation",
+      "gumroad_url": "https://gumroad.com/l/chatgpt-mastery-formation-complete"
+    }
+  ],
+  "benefits": [
+    {
+      "icon": "⚡",
+      "title": "Résultat Immédiat",
+      "description": "Utilisez vos premiers prompts dès aujourd'hui et voyez les résultats en quelques minutes"
+    },
+    {
+      "icon": "🎯",
+      "title": "Testé & Optimisé",
+      "description": "Chaque prompt a été testé pendant 6 mois avec de vrais entrepreneurs"
+    },
+    {
+      "icon": "📊",
+      "title": "Système Complet",
+      "description": "Framework R.O.L.E.S. + 75 prompts = Solution complète pour votre business"
+    },
+    {
+      "icon": "🚀",
+      "title": "Automatisation",
+      "description": "Transformez ChatGPT en assistant expert pour automatiser vos tâches"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "role": "E-commerçant",
+      "text": "Ces prompts ont révolutionné ma création de contenu. Je génère maintenant des descriptions produit qui convertissent 3x plus en 30 secondes.",
+      "rating": 5
+    },
+    {
+      "name": "Marc D.",
+      "role": "Consultant Marketing",
+      "text": "Le framework R.O.L.E.S. alone vaut le prix d'achat. J'ai économisé plus de 20h de travail par semaine.",
+      "rating": 5
+    },
+    {
+      "name": "Julie L.",
+      "role": "Coach Business",
+      "text": "Mes clients utilisent maintenant ces prompts pour leurs stratégies. Les résultats sont spectaculaires !",
+      "rating": 5
+    }
+  ],
+  "stats": {
+    "users": "1,247+",
+    "satisfaction": "98%",
+    "time_saved": "85%",
+    "success_rate": "91%"
+  }
+}
